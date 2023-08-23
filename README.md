@@ -16,10 +16,9 @@ Here are some ideas to get you started:
 😄 Pronouns: ...
 ⚡ Fun fact: ...
 -->
-<h2 align="center" style="padding: 2000px;">
-  I'm a JavaScript and React enthusiast with experience in a range of technologies, and a dedication to learning new things and improving daily. 
-  I'm always enthusiastic about collaborating on projects and exploring new ideas - so feel free to reach out if you're interested in working together, discussing tech generally, or just to say 👋.
-</h2>
+<h3 align="center" style="padding: 2000px;">
+  I'm a JavaScript and React enthusiast with experience in a range of technologies, and a dedication to learning new things and improving daily. I'm always enthusiastic about collaborating on projects and exploring new ideas. Feel free to reach out if you're interested in working together, discussing tech generally, or just to say 👋.
+</h3>
 <br><br>
 <p align="center"> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
@@ -56,10 +55,10 @@ Here are some ideas to get you started:
 <br><br>
 <div align="center" style="display: flex; flex-direction: row; justify-content: center; align-items: center;">
   <a href="https://git.io/streak-stats">
-    <img height="200" align="center" src="http://github-readme-streak-stats.herokuapp.com?user=jcollinc&theme=codeSTACKr&hide_border=true" />
+    <img height="180" align="center" src="http://github-readme-streak-stats.herokuapp.com?user=jcollinc&theme=codeSTACKr&hide_border=true" />
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
-    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jcollinc&theme=codeSTACKr&layout=compact&langs_count=8&card_width=350" />
+    <img height="180" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jcollinc&theme=codeSTACKr&layout=compact&langs_count=8&card_width=350" />
   </a>
 </div>
 
