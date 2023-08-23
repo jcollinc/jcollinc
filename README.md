@@ -18,5 +18,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jcollinc&layout=donut&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=jcollinc&show=prs_merged,prs_merged_percentage&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jcollinc&theme=codeSTACKr" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jcollinc&theme=codeSTACKr&layout=donut&langs_count=8&card_width=320" />
+</a>
+
