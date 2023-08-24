@@ -1,6 +1,6 @@
 
 
-[![MasterHead](https://i.ibb.co/LgdGttC/GithubBg.jpg)](https://github.com/jcollinc)
+[![MasterHead](https://github.com/jcollinc/jcollinc/assets/92186183/f46188d3-79ca-453a-95dc-75f44fb8e10b)](https://github.com/jcollinc)
 
 <!--
 **jcollinc/jcollinc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -48,8 +48,8 @@ Here are some ideas to get you started:
   <a href="https://git-scm.com/" target="_blank"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" alt="git" width="60" height="60"/> 
   </a>
-  <a href="https://github.com/" target="_blank" style="color: #FFFFFF;"> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="github" width="60" height="60"/> 
+  <a href="https://github.com/" target="_blank"> 
+    <img src="https://github.com/jcollinc/jcollinc/assets/92186183/623b4d5f-3c2c-467f-9307-31dbe5edcf15" alt="github" width="60" height="60"/> 
   </a>
 </p>
 <br><br>
@@ -61,7 +61,6 @@ Here are some ideas to get you started:
     <img height="180" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jcollinc&theme=codeSTACKr&layout=compact&langs_count=8&card_width=350" />
   </a>
 </div>
-
 
 
 
