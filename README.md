@@ -57,9 +57,9 @@ Here are some ideas to get you started:
   <a href="https://git.io/streak-stats">
     <img height="180" align="center" src="http://github-readme-streak-stats.herokuapp.com?user=jcollinc&theme=codeSTACKr&hide_border=true" />
   </a>
-<!--   <a href="https://github.com/anuraghazra/convoychat">
-    <img height="180" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jcollinc&theme=codeSTACKr&layout=compact&langs_count=8&card_width=350" />
-  </a> -->
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img height="180" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jcollinc&theme=codeSTACKr&layout=compact&card_width=350" />
+  </a>
 </div>
 
 
