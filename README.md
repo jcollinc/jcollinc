@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ⚡ Fun fact: ...
 -->
 <h3 align="center" style="padding: 2000px;">
-  I'm a JavaScript and React enthusiast with experience in a range of technologies, and a dedication to learning new things and improving daily. I'm always enthusiastic about collaborating on projects and exploring new ideas. Feel free to reach out if you're interested in working together, discussing tech generally, or just to say 👋.
+  I'm always enthusiastic about collaborating on projects and exploring new ideas. Feel free to reach out if you're interested in working together, discussing tech generally, or just to say 👋.
 </h3>
 <br><br>
 <p align="center"> 
