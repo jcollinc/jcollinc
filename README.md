@@ -16,9 +16,6 @@ Here are some ideas to get you started:
 😄 Pronouns: ...
 ⚡ Fun fact: ...
 -->
-<h3 align="center" style="padding: 2000px;">
-  I'm always enthusiastic about collaborating on projects and exploring new ideas. Feel free to reach out if you're interested in working together, discussing tech generally, or just to say 👋.
-</h3>
 <br><br>
 <p align="center"> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
